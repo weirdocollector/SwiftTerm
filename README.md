@@ -1,7 +1,7 @@
 # SwiftTerm
 A very simple Swiftlink terminal program for the C64.
 
-Created with CBM prg Studio.
+Created with CBM prg Studio (https://www.ajordison.co.uk/).
 
 UART settings are 8,N,1 at 38400 baud.
 
